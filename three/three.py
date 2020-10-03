@@ -114,6 +114,10 @@ def letters():
     return ['t', 'h', 'r', 'e', 'e']
 
 
+def vowel_count():
+    reutrn 2
+
+
 def spanish():
     return 'tres'
 
@@ -134,9 +138,6 @@ def hindi():
     return 'teen'
 
 
-def vowel_count():
-    reutrn 2
-
 # Currency
 
 def dollars():
@@ -149,6 +150,10 @@ def cents():
 
 def euros():
     return '€3.00'
+
+
+def rupees():
+    return '₹3.00'
 
 
 # Rule of Threes
