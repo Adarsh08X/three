@@ -43,6 +43,14 @@ def factorial():
     return 6
 
 
+def square_root():
+    return 1.7320508075689
+
+
+def is_prime():
+    return True
+
+
 def is_three(x):
     return x == three()
 
@@ -121,6 +129,13 @@ def french():
 def italian():
     return 'tre'
 
+
+def hindi():
+    return 'teen'
+
+
+def vowel_count():
+    reutrn 2
 
 # Currency
 
